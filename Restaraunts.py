@@ -1,4 +1,3 @@
-
 import random
 
 w = ['Zaxbys', 'Tenders', 'Chikfila', 'Slim Chickens', 'Wayback', 'Crickets', 'Johnny Grylls', 'Farm Burger', 'Arbys', 'Cracker Barrel',
